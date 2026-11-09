@@ -10,3 +10,5 @@ class Solution:
             l+=1
             r-=1
         return flag
+        #new_s= ''.join(c.lower() for c in s if c.isalnum())
+        #return new_s==new_s[::-1]
